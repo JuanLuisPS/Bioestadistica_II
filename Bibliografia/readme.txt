@@ -1,1 +1,1 @@
-
+Con estelibro en laParte 1 se recomienda retroalimentar los temas del curso de Bioestadística I. PAra el curso de BioestadísticaII usaremos la Parte 2 y 3. En la Parte 2 se pueden consultar los temas de ANOVA hasta regresión lineal simple; mientras que la Parte 3 se puede consultar el resto del curso de Bioestadística II
