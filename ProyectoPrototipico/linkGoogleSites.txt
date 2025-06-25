@@ -1,2 +1,5 @@
 Le suguiero revisar el siguiente link sobre más detalles del proyecto del curso de Bioestadística II
 https://sites.google.com/view/proyecto-regresiones-lineales/inicio
+
+Ejercicio propuesto 16:
+https://colab.research.google.com/drive/1l07sOINZ9tjk4pGe1JvOetVz7hKxoHi4?usp=sharing
